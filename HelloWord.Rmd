@@ -1,7 +1,0 @@
----
-title: "Hello World!"
-author: "ME"
-date: "1/11/2021"
-output: html_document
----
-## This is a markdown file
